@@ -1,0 +1,22 @@
+{
+  "name": "Dimah Academy Islamic Continuous Assessment Record — أكاديمية ديمة",
+  "short_name": "Dimah Academy CA",
+  "id": "dimah-academy-islamic-ca-v44-arabic",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "scope": "./",
+  "background_color": "#edf3fa",
+  "theme_color": "#12345a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
